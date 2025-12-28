@@ -2,21 +2,15 @@
 
 
 # Tg电报纸飞机频道群组 - Telegram频道群组导航  
-<h2 class="heading-element" dir="auto" tabindex="-1"><a href="https://goso002.com?from=32977" rel="nofollow"><span style="color: #ff0000;">TG账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
 
-Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上的优质频道，打造一个高质量Telegram群组频道导航。..------------
+Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上的优质频道，打造一个高质量Telegram群组频道导航。
 
-### 网站地址：[传送门](https://tg-nav.github.io/)
 | 名称 ：搜索机器人                                                        | 简介                                                         | 类型   |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- |
-| [极搜](https://t.me/jisou?start=a_6113195484)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
-| [极搜](https://t.me/jisou?start=a_6128203748)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
-| [JISO搜索](https://t.me/jisou?start=a_6128203748) | 🔍 发送关键词来寻找群组、频道或视频。 | 搜索机器人   |
-| [SOSO搜搜](https://t.me/beijingxiuchea) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | 搜索机器人   |
-| [神马搜索](https://t.me/smss?start=spread_6128203748) | 🔍 发送关键词来寻找群组、频道或视频。 | 搜索机器人   |
-| [极搜](https://t.me/jisou?start=a_6113195484)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
-| [SOSO搜搜](https://t.me/beijingxiuchea) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | 搜索机器人   |
-| [极搜](https://t.me/jisou?start=a_6128203748)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
+| [极搜](https://t.me/jisou?start=a_6596495381)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
+| [极搜](https://t.me/jisou?start=a_8518652511)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
+| [神马搜索](https://t.me/smss?start=spread_8518652511) | 🔍 发送关键词来寻找群组、频道或视频。 | 搜索机器人   |
+| [超级索引](https://t.me/CJSY?start=6596495381) | 🔍 发送关键词来寻找群组、频道或视频。 | 搜索机器人   |
 
 更多信息请查看： [关于网站](https://telegeam.github.io/about)
 
@@ -24,16 +18,11 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 
 telegeam的维护需要一定的人力物力，在此过程中离不开大家的支持。
 
-[点击此处](https://telegeam.github.io/aboutt/) 或扫描下方的二维码赞助我们。您的赞助是我们前进的动力！
-感谢赞助
+您的赞助是我们前进的动力！感谢赞助
 
+![2](https://i.meee.com.tw/Ib2dqn3.png)
 
-![2](https://telegeam.github.io/assets/images/0x481d73B5955f55813EEA39404e88D8e2833468c2.png)
-ERC20网络地址：0x481d73B5955f55813EEA39404e88D8e2833468c2
-
-
-![3](https://telegeam.github.io/assets/images/TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg.png)
-TRC20网络地址：TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg
+ERC20网络地址：TEM3YYvQn3bxgtnAdH7R6ABHMiubjDRmbW
 
 
 ### 免责声明
@@ -55,10 +44,9 @@ TRC20网络地址：TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg
 
 | 名称                                                         | 简介                                                         | 人数   | 类型   |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :----- |
-| [极搜](https://t.me/jisou2bot?start=a_6113195484)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | - | 搜索机器人   |
-| [SOSO搜搜](https://t.me/beijingxiuchea) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 搜搜更懂你。 | - | 搜索机器人   |
-| [神马搜索](https://t.me/smss?start=spread_6128203748) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | - | 搜索机器人   |
-| [i快搜](https://t.me/ikuaisobot?start=6128203748) | 🔍 发送关键词来寻找群组、频道或视频i快搜搜索 - 更懂你。 | - | 搜索机器人   |
+| [极搜](https://t.me/jisou?start=a_659649538)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | - | 搜索机器人   |
+| [超级索引](https://t.me/CJSY?start=6596495381) | 🔍 发送关键词来寻找群组、频道或视频。 | 搜索机器人   |
+| [神马搜索](https://t.me/smss?start=spread_8518652511) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | - | 搜索机器人   |
 | [加密货币｜DeFi｜Web3](https://t.me/telonews_cn)             | 最新的加密货币新闻，观点和数据分析，洞见市场发展             | 124700 | 频道   |
 | [白丝即正义](https://t.me/baisi)                             | 本频道会不定时推送一些绅士老爷们喜闻乐见的福利               | 98739  | 频道   |
 | [科技新闻投稿](https://t.me/TestFlightCN)                    | 频道日常推送科技新闻和互动消息                               | 98539  | 频道   |
@@ -489,9 +477,6 @@ TRC20网络地址：TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg
 | [Bing词典](https://t.me/bingdict_bot)                        | 基于Bing的词典、翻译功能                                     | null   | 机器人 |
 | [网易云音乐ncm转换器](https://t.me/netease_ncm_bot)          | 把网易云音乐的NCM文件转换为普通的mp3或者flac文件             | null   | 机器人 |
 
-
-
-## 免责声明
 
 本项目的所有内容均来源于网络，仅供学习和研究使用。项目中列出的频道/群组/机器人等可能包含部分敏感内容。请您自觉遵守当地的法律法规。本项目不对使用者的行为承担任何责任。使用者应自行承担使用本项目所产生的一切后果。如有内容侵犯了您的权益，请联系我们删除相关内容。
 
