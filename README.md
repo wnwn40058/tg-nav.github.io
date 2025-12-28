@@ -12,7 +12,7 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 | [神马搜索](https://t.me/smss?start=spread_8518652511) | 🔍 发送关键词来寻找群组、频道或视频。 | 搜索机器人   |
 | [超级索引](https://t.me/CJSY?start=6596495381) | 🔍 发送关键词来寻找群组、频道或视频。 | 搜索机器人   |
 
-更多信息请查看： [关于网站](https://telegeam.github.io/about)
+更多信息请查看： [关于网站](https://seo.ncxx.net/)
 
 ### 赞助我们
 
