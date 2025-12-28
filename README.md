@@ -58,10 +58,11 @@ ERC20网络地址：TEM3YYvQn3bxgtnAdH7R6ABHMiubjDRmbW
 | [奶心💗超搜二館🔍](https://t.me/nccjsy888)           | 奶心超搜帮你找到有趣的群、频道、视频、音乐、电影、新闻，讓您一次搜尋到位。          | -  | 搜索群  |
 | [福利广场🤖TH搜索🔍](https://t.me/fl_qc_th)                      | 在这里你可以跟共同爱好者互相交流💗同时也可以在这里搜索到任何您想要的东西💗        | -  | 搜索群   |
 | [福利广场💗SO搜索🔍](https://t.me/fl_qc_so)                      | 在这里你可以跟共同爱好者互相交流💗同时也可以在这里搜索到任何您想要的东西💗        | -  | 搜索群   |
+| [Telegram繁體中文语言包](https://t.me/setlanguage/zh-hant-beta)                | Telegram繁體中文语言包                                           | -  | 频道   |
+| [Telegram簡體中文语言包](https://t.me/setlanguage/zh-hans-beta)                | Telegram簡體中文语言包                                           | -  | 频道   |
 | [快乐星球](https://t.me/botmzt)                              | 美女 妹子 精选 全网 中文 快乐星球                            | 56473  | 频道   |
 | [ReadFine电子书屋](https://t.me/Readfine)                    | 好读提供电子书一站式体验，包括评分\|简介\|封面，一键下载，享受读趣。 | 50982  | 频道   |
 | [你不知道的内幕消息](https://t.me/inside1024)                | 内幕消息;最新行业资讯、以及大公司的负面新闻、财经观点信息、好物推荐等 | 50484  | 频道   |
-| [Telegram中文语言包](https://t.me/Tele_zh_CN)                | Telegram十万人群                                             | 49826  | 频道   |
 | [足控天堂](https://t.me/sizukon)                             | 原创美腿丝袜，黑丝、肉丝、蕾丝、足控、高跟鞋、私房、空姐、制服诱惑等高清无码美女写真拍摄 | 46538  | 频道   |
 | [心情文案吧](https://t.me/WenAnBa)                           | 文案 壁纸 头像 每日更新                                      | 43409  | 频道   |
 | [颜值即正义](https://t.me/yzjzy)                             | 颜值即正义                                                   | 42708  | 频道   |
