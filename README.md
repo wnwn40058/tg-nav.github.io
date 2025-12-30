@@ -63,17 +63,33 @@ ERC20网络地址：TEM3YYvQn3bxgtnAdH7R6ABHMiubjDRmbW
 > **Warning**
 > 如果大家有发现存在敏感内容的群组、频道和机器人欢迎提交，会在第一时间处理。
 
+| 名称 ：机器人                                                | 简介                                                         | 类型   |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :----- |
+| [解除频道消息在群组的置顶](https://t.me/areply_bot)          | 自动解除频道消息在群组的同步置顶，附带群组日常维护常用小功能            | 机器人 |
+| [Telegram权限管理机器人](https://t.me/autopm_bot)            | 权限管理机器人                                                     | 机器人 |
+| [NoAdBot](https://t.me/keyworddel_bot)                       | 本机器人基于人工智能、机器学习和深度学习,自动删除群组"推广/广告"等消息 | 机器人 |
+| [GIF出处查询机器人](https://t.me/TumblrAce_bot)              | 本机器人可以帮助您查找GIF动图的出处                                  | 机器人 |
+| [词云机器人](https://t.me/iiWordCloudBot)                    | 受API限制，授予管理员后，机器人才能接收到聊天文本，为了安全，您可以将所有权限关闭 | 机器人 |
+| [流媒体解锁测试](https://t.me/stairunlock_test_bot)          | 流媒体解锁测试                                                      | 机器人 |
+| [PremiumCounterBot](https://t.me/PremiumCounterBot)          | 一个计算群内TelegramPremium用户占比的机器人                         | 机器人 |
+| [UserMetaBot](https://t.me/UserMeta_Bot)                     | 统计群内每天活跃成员，需要添加机器人为群管理员。                      | 机器人 |
+| [抽奖助手](https://t.me/LotteryHelperBot)                    | 抽奖机器人                                                          | 机器人 |
+| [RSSchina_bot](https://t.me/RSSchina_bot)                    | rss订阅机器人                                                       | 机器人 |
+| [RSSBot](https://t.me/RustRssBot)                            | 中文TelegramRSS机器人                                               | 机器人 |
+| [Bing词典](https://t.me/bingdict_bot)                        | 基于Bing的词典、翻译功能                                             | 机器人 |
+| [网易云音乐ncm转换器](https://t.me/netease_ncm_bot)          | 把网易云音乐的NCM文件转换为普通的mp3或者flac文件                       | 机器人 |
+
+| 名称                                                         | 简介                                                         | 类型   |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :----- |
+| [快乐星球](https://t.me/botmzt)                              | 美女 妹子 精选 全网 中文 快乐星球                                | 频道   |
+| [ReadFine电子书屋](https://t.me/Readfine)                    | 好读提供电子书一站式体验，包括评分\|简介\|封面，一键下载，享受读趣。 | 频道   |
+| [足控天堂](https://t.me/sizukon)                             | 原创美腿丝袜，黑丝、肉丝、蕾丝、足控、高跟鞋、私房、空姐、制服诱惑等高清无码美女写真拍摄 | 频道   |
+| [心情文案吧](https://t.me/WenAnBa)                           | 文案 壁纸 头像 每日更新                                          | 频道   |
+| [颜值即正义](https://t.me/yzjzy)                             | 颜值即正义                                                      | 频道   |
+| [极客分享](https://t.me/geekshare)                           | 专注分享各种高质量网站、工具、APP、开源项目等一切好玩的东西         | 频道   |
 
 | 名称                                                         | 简介                                                         | 人数   | 类型   |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :----- |
-| [快乐星球](https://t.me/botmzt)                              | 美女 妹子 精选 全网 中文 快乐星球                            | 56473  | 频道   |
-| [ReadFine电子书屋](https://t.me/Readfine)                    | 好读提供电子书一站式体验，包括评分\|简介\|封面，一键下载，享受读趣。 | 50982  | 频道   |
-| [你不知道的内幕消息](https://t.me/inside1024)                | 内幕消息;最新行业资讯、以及大公司的负面新闻、财经观点信息、好物推荐等 | 50484  | 频道   |
-| [足控天堂](https://t.me/sizukon)                             | 原创美腿丝袜，黑丝、肉丝、蕾丝、足控、高跟鞋、私房、空姐、制服诱惑等高清无码美女写真拍摄 | 46538  | 频道   |
-| [心情文案吧](https://t.me/WenAnBa)                           | 文案 壁纸 头像 每日更新                                      | 43409  | 频道   |
-| [颜值即正义](https://t.me/yzjzy)                             | 颜值即正义                                                   | 42708  | 频道   |
-| [开源阅读｜频道](https://t.me/Legado_Channels)               | 阅读APK、书源、背景排版及部分公众号内容，还有群友的推文投稿  | 40908  | 频道   |
-| [极客分享](https://t.me/geekshare)                           | 专注分享各种高质量网站、工具、APP、开源项目等一切好玩的东西  | 36427  | 频道   |
 | [开源社区](https://t.me/opencfdchannel)                      | Android/Linux/Windows/MacOS/iOS 科技人文资讯                 | 36128  | 频道   |
 | [ZBook,电子书](https://t.me/ziyuanfeng59)                    | 精品电子书 漫画 小说资源 分享交流                            | 35110  | 频道   |
 | [每天趣事](https://t.me/Meitian)                             | 多样沙雕冷笑话，津津乐道稀奇事                               | 34856  | 频道   |
@@ -471,19 +487,7 @@ ERC20网络地址：TEM3YYvQn3bxgtnAdH7R6ABHMiubjDRmbW
 | [单机恐怖游戏总群](https://t.me/danjikongbu)                 | 全宇宙最优秀的单机恐怖游戏交流分享                           | 479    | 群组   |
 | [DRC官方中文群](https://t.me/drc_info)                       | DRC 数字世界的华尔街                                         | 476    | 群组   |
 | [西西书屋精校电子书](https://t.me/xixishuwu)                 | 西西书屋-精品电子书搜索服务                                  | 188    | 群组   |
-| [解除频道消息在群组的置顶](https://t.me/areply_bot)          | 自动解除频道消息在群组的同步置顶，附带群组日常维护常用小功能 | null   | 机器人 |
-| [Telegram权限管理机器人](https://t.me/autopm_bot)            | 权限管理机器人                                               | null   | 机器人 |
-| [NoAdBot](https://t.me/keyworddel_bot)                       | 本机器人基于人工智能、机器学习和深度学习,自动删除群组"推广/广告"等消息 | null   | 机器人 |
-| [GIF出处查询机器人](https://t.me/TumblrAce_bot)              | 本机器人可以帮助您查找GIF动图的出处                          | null   | 机器人 |
-| [词云机器人](https://t.me/iiWordCloudBot)                    | 受API限制，授予管理员后，机器人才能接收到聊天文本，为了安全，您可以将所有权限关闭 | null   | 机器人 |
-| [流媒体解锁测试](https://t.me/stairunlock_test_bot)          | 流媒体解锁测试                                               | null   | 机器人 |
-| [PremiumCounterBot](https://t.me/PremiumCounterBot)          | 一个计算群内TelegramPremium用户占比的机器人                  | null   | 机器人 |
-| [UserMetaBot](https://t.me/UserMeta_Bot)                     | 统计群内每天活跃成员，需要添加机器人为群管理员。             | null   | 机器人 |
-| [抽奖助手](https://t.me/LotteryHelperBot)                    | 抽奖机器人                                                   | null   | 机器人 |
-| [RSSchina_bot](https://t.me/RSSchina_bot)                    | rss订阅机器人                                                | null   | 机器人 |
-| [RSSBot](https://t.me/RustRssBot)                            | 中文TelegramRSS机器人                                        | null   | 机器人 |
-| [Bing词典](https://t.me/bingdict_bot)                        | 基于Bing的词典、翻译功能                                     | null   | 机器人 |
-| [网易云音乐ncm转换器](https://t.me/netease_ncm_bot)          | 把网易云音乐的NCM文件转换为普通的mp3或者flac文件             | null   | 机器人 |
+
 
 
 本项目的所有内容均来源于网络，仅供学习和研究使用。项目中列出的频道/群组/机器人等可能包含部分敏感内容。请您自觉遵守当地的法律法规。本项目不对使用者的行为承担任何责任。使用者应自行承担使用本项目所产生的一切后果。如有内容侵犯了您的权益，请联系我们删除相关内容。
