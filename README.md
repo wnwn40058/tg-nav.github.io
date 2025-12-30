@@ -488,11 +488,9 @@ ERC20网络地址：TEM3YYvQn3bxgtnAdH7R6ABHMiubjDRmbW
 | [版本控](https://t.me/nextnb)                                | 软件、硬件、经验等各种能让自己和小伙伴升级进化的内容         | 563    | 群组   |
 | [Vim正體中文社群](https://t.me/vim_tw)                       | 探討各種Vim小技巧的正體中文小圈圈                            | 553    | 群组   |
 | [iPad用户社群](https://t.me/iPadOS)                          | 苹果iPadOS操作系统用户社群。AppStore应用推荐                 | 549    | 群组   |
-| [内涵段子之狼人杀](https://t.me/werewolfcn)                  | 内涵段子之狼人杀                                             | 544    | 群组   |
 | [神魔聊天群](https://t.me/tos_unofficial)                    | 神魔之塔非官方聊天群                                         | 503    | 群组   |
 | [单机恐怖游戏总群](https://t.me/danjikongbu)                 | 全宇宙最优秀的单机恐怖游戏交流分享                           | 479    | 群组   |
 | [DRC官方中文群](https://t.me/drc_info)                       | DRC 数字世界的华尔街                                         | 476    | 群组   |
-| [西西书屋精校电子书](https://t.me/xixishuwu)                 | 西西书屋-精品电子书搜索服务                                  | 188    | 群组   |
 
 
 
